@@ -1,6 +1,6 @@
 ### Hey there, I'm Kritika Shrinivasan
 <hr/>
-I am a passionate software developer. I like porblem solving and logic building. I am also into building scalable websites and designing UI/UX.  
+I am a passionate software developer. I like porblem solving and logic building. I am also into building scalable websites and robust backend using Node.js & Express.  
 
 - 🌱 I’m currently learning UI/UX designing and implementation. 
   
