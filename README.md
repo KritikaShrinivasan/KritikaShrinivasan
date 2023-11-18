@@ -32,10 +32,6 @@ I am a passionate software developer. I like porblem solving and logic building.
 <br />
 
 ### My GitHub Stats
-<hr/>
-
-[![kitty0804's GitHub stats](https://github-readme-stats.vercel.app/api?username=KritikaShrinivasan&theme=nightowl&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KritikaShrinivasan&theme=nightowl&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KritikaShrinivasan)
